@@ -1,0 +1,16 @@
+h2{
+  text-align: center;
+}
+
+
+.searchBar{
+  margin-left: 10%;
+}
+
+.allCourses>li{
+  margin-left: 20%;
+}
+
+.hidden{
+  display: none;
+}

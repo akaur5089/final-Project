@@ -1,0 +1,104 @@
+[
+  {
+    "title": "COMPUTER PROG FUND 1",
+    "course": "CUS 1115",
+    "instructor": "Wang, Ju",
+    "day": "TF",
+    "seats": "3",
+    "type": "Lecture/Lab"
+  },
+  {
+    "title": "COMPUTER PROG FUND 2",
+    "course": "CUS 1116",
+    "instructor": "Wang, Ju",
+    "day": "MR",
+    "seats": "8",
+    "type": "Lecture/Lab"
+  },
+
+  {
+    "title": "INTRO TO DATA STRUCTURES",
+    "course": "CUS 1126",
+    "instructor": "Yadav, Nikhil",
+    "day": "TF",
+    "seats": "3",
+    "type": "Lecture/Lab"
+  },
+
+   {
+     "title": "Systems Programming in Linux",
+     "course": "CUS 1150",
+        "instructor": "MacKeller, Bonnie"
+        "days": "Monday , Thursday",
+     "seats": "7",
+     "type": "Lecture, Lab",
+
+
+   },
+   {
+     "course": "CUS 1151",
+     "title": "Advance Data Structures",
+     "seats": "0",
+     "type": "Hybrid , Classroom and Online",
+     "days": "Tuesday",
+     "instructor": "Keshtkar, Fazel"
+   },
+   {
+     "title": "Software Design Methods",
+     "course": "CUS 1156",
+     "instructor": "Yadav, Nikhil"
+     "days": "Thursday",
+     "seats": "0",
+     "type": "Hybrid - Classroom and Online",
+      },
+  {
+    "title": "ADVANCED DATA STRUCTURES",
+    "course": "CUS 1151",
+    "instructor": "Ahmad,Sayed",
+    "day": "TF",
+    "seats": "13",
+    "type": "Lecture"
+  },
+  {
+    "title": "SOFTWARE DESIGN METHODS",
+    "course": "CUS 1156",
+    "instructor": "Ahmad,Sayed",
+    "day": "MR",
+    "seats": "1",
+    "type": "Lecture"
+  },
+  {
+    "title": "SOFTWARE DESIGN METHODS",
+    "course": "CUS 1156",
+    "instructor": "Bonnie, Mckehlor",
+    "day": "TF",
+    "seats": "7",
+    "type": "Lecture"
+  },
+  {
+    "title": "OPERATING SYSTEMS",
+    "course": "CUS 1163",
+    "instructor": "Schweikert, Christina",
+    "day": "TF",
+    "seats": "8",
+    "type": "Lecture/Lab"
+  },
+  {
+    "title": "DATABASE MANAGEMENT SYSTEMS",
+    "course": "CUS 1165",
+    "day": "MR",
+    "instructor": "MacKellar, Bonnie",
+    "seats": "9",
+    "type": "Lecture/Lab"
+  },
+  {
+    "title": "COMPUTER ARCHITECTURE",
+    "course": "CUS 1162",
+    "day": "T",
+    "instructor": "Sklar, Ronald",
+    "seats": "2",
+    "type": "Hybrid"
+  },
+
+
+]
